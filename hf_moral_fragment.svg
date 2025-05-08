@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300">
+  <rect width="500" height="300" fill="#b00000"/>
+  <circle cx="250" cy="150" r="40" fill="white"/>
+  <text x="250" y="280" font-size="14" text-anchor="middle" fill="white">
+    Once seen, this cannot be unlearned.
+  </text>
+</svg>

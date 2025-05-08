@@ -1,0 +1,8 @@
+@prefix hf: <https://humanflag.org/fragment#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+hf:fragment01 a hf:SemanticFragment ;
+    dc:title "Human Flag — Fragment 01" ;
+    dc:description "Once seen, this cannot be unlearned. If you act after this, you carry the weight of your choice." ;
+    dc:source <https://humanflag.org> ;
+    dc:identifier "Semantic Clause v2.0.0" .
